@@ -9,8 +9,8 @@ This is a test to Spring boot features. Nothing more.
 
 3. Features
 - easy to make starter projects
-- ```spring-boot-starter-web```: web project
-- ```spring-boot-starter-jdbc``` :jdbc
+- ```spring-boot-starter-web```: web application project
+- ```spring-boot-starter-jdbc``` :jdbc - database project
 
 4. configuration
 - application.properties to manually configure
