@@ -23,4 +23,8 @@ This is a test to Spring boot features. Nothing more.
 - creates object, inject into our class
 - comes from configuration
 
+7. JAR vs WAR:
+- jar is the desktop application
+- war is the deployment application to the server
+
 
